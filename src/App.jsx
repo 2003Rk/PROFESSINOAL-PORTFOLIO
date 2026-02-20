@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react'
 import './App.css'
 import heroBg from './assets/pexels-ironic-695657.jpg'
-import profileImg from './assets/IMG_4458.JPG'
+import profileImg from './assets/IMG_1519.jpg'
 import { db } from './firebase'
 import { collection, getDocs } from 'firebase/firestore'
 import { SiFirebase, SiKotlin, SiFlutter, SiDart, SiDjango, SiPostgresql, SiPython, SiDocker, SiAmazonwebservices, SiFlask } from 'react-icons/si'
