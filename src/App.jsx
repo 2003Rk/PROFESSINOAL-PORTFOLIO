@@ -139,7 +139,7 @@ function App() {
               <a href="https://www.linkedin.com/in/rahul-kr2000/" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
                 <span className="btn-icon">🔗</span> my LinkedIn
               </a>
-              <a href="https://drive.google.com/file/d/1dxhffwaNT2hXsjyGkyxs5ChOOhv6rWRX/view?usp=sharing" className="btn btn-outline">
+              <a href="https://drive.google.com/file/d/1Z3Y1vfuD_zE_VoP1sgomuRr3uelQ_-DT/view?usp=sharing" className="btn btn-outline">
                 <span className="btn-icon">⬇</span> download CV
               </a>
             </div>
